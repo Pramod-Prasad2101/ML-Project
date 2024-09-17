@@ -1,2 +1,2 @@
 # ML-Project
-Capstone Project - Machine Learning Algorithm
+Capstone Project - Machine Learning Algorithm using K-Means Clustering
